@@ -45,3 +45,10 @@ p {
 .well img {
   width: 250px;
 }
+
+.boxmodel {
+  border: 1px solid gray;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 300px;
+}

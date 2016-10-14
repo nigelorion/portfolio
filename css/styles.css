@@ -1,1 +1,47 @@
+body {
+  text-align: center;
+}
 
+.well {
+  background-color: transparent !important;
+}
+
+
+.jumbotron {
+  background-color: transparent !important;
+  padding-top: 0;
+}
+
+
+ul {
+  text-align: left;
+}
+
+img {
+  width: 55%;
+}
+
+#contact {
+  font-size: 13pt;
+}
+
+.col-md-4 img {
+  width: 80%;
+  float: none;
+}
+
+#about-me {
+  padding-top: 0%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.sub-header-contact {
+  margin: 12px;
+  border: 1px solid black;
+  padding: 4px;
+}
+
+.page-header {
+  border-bottom: 0;
+}

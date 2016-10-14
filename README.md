@@ -12,7 +12,7 @@ _This is a detailed description of your application. Its purpose and usage.  Giv
 
 * _Download files from Github repository_
 * _View in browser of your choice_
-* _Or simply visit nigelorion.github.io/portfolio_
+* _Or simply visit www.nigelorion.github.io/portfolio_
 
 
 ## Known Bugs

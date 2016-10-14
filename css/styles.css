@@ -1,10 +1,14 @@
 body {
   text-align: center;
+  background-color: black !important;
+  color: lightgray;
 }
 
-
-.container {
+.well {
+  background-color: black !important;
+  color: lightgray;
 }
+
 
 .jumbotron {
   margin: 0;

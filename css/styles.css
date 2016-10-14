@@ -12,6 +12,9 @@ ul {
   text-align: center;
 }
 
+ol {
+  margin: 220px;
+}
 
 .navbar .navbar-nav {
     display: inline-block;
@@ -48,7 +51,18 @@ p {
 
 .boxmodel {
   border: 1px solid gray;
-  margin-left: 300px;
-  margin-right: 300px;
-  margin-top: 300px;
+  margin: 300px;
+}
+
+.container h2 {
+  margin-top: 200px;
+}
+
+h4 {
+  margin: 30px;
+}
+
+.portfolio-top {
+  margin-top: 0px;
+  margin-bottom: 200px;
 }

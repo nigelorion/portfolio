@@ -18,6 +18,7 @@ _This is a detailed description of your application. Its purpose and usage.  Giv
 ## Known Bugs
 
 _CSS centering formatting issues_
+_Portfolio section does not land in center when clicking link_
 
 ## Support and contact details
 
